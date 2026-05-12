@@ -19,9 +19,13 @@
 
 ## 執行畫面 (Screenshots)
 
->  **操作提示：** 將程式執行時的截圖命名為 `screenshot.png`，並上傳至此 GitHub 專案的根目錄中，圖片就會自動顯示在下方。
+<img width="742" height="486" alt="螢幕擷取畫面 2026-05-12 133628" src="https://github.com/user-attachments/assets/a1e9a5f3-7f05-4e45-841f-dd90c6bd2fbd" />
 
-![WAV Player 執行畫面](./screenshot.png)
+<img width="936" height="592" alt="螢幕擷取畫面 2026-05-12 133656" src="https://github.com/user-attachments/assets/df0c7f48-f49a-4b3b-ba32-1816500988ba" />
+
+<img width="745" height="487" alt="螢幕擷取畫面 2026-05-12 133721" src="https://github.com/user-attachments/assets/7d3f3cee-9511-4020-87e0-9942f05108f7" />
+
+<img width="742" height="482" alt="螢幕擷取畫面 2026-05-12 133843" src="https://github.com/user-attachments/assets/7fafe243-4941-41f1-95d4-3e6d61590f61" />
 
 ##  執行與編譯說明 (Getting Started)
 
