@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WAV_音效檔播放器", "WAV_音效檔播放器\WAV_音效檔播放器.csproj", "{751A99A1-06EC-4C34-8DEA-F3B0E77DEFAF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WAV_Player", "WAV_Player\WAV_Player.csproj", "{751A99A1-06EC-4C34-8DEA-F3B0E77DEFAF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

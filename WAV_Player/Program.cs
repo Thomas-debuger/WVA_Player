@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WAV_音效檔播放器
+namespace WAV_Player
 {
     internal static class Program
     {

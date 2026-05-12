@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using System.Media;
 using System.IO;
 
-namespace WAV_音效檔播放器
+namespace WAV_Player
 {
     public partial class frmWAVPlayer : Form
     {
@@ -46,7 +46,7 @@ namespace WAV_音效檔播放器
             }
             catch (Exception ex){
                 MessageBox.Show("播放音效檔失敗！\n" + ex.Message, "錯誤", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
+            } 
         }
 
         
