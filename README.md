@@ -29,6 +29,8 @@
 
 <img width="742" height="482" alt="螢幕擷取畫面 2026-05-12 133843" src="https://github.com/user-attachments/assets/7fafe243-4941-41f1-95d4-3e6d61590f61" />
 
+---
+
 ##  執行與編譯說明 (Getting Started)
 
 ### 先決條件
