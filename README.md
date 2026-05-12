@@ -17,6 +17,8 @@
 * **音訊處理核心:** `System.Media.SoundPlayer`
 * **開發工具:** Visual Studio 2022
 
+---
+
 ## 執行畫面 (Screenshots)
 
 <img width="742" height="486" alt="螢幕擷取畫面 2026-05-12 133628" src="https://github.com/user-attachments/assets/a1e9a5f3-7f05-4e45-841f-dd90c6bd2fbd" />
